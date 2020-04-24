@@ -9,9 +9,9 @@ description: "北京君致清科技有限公司坐落于清华科技园，主要
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 王化军
   pic: 1
-  position: Lead Designer
+  position: 职位描述
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 何秋慧
   pic: 2
-  position: Lead Marketer
+  position: 职位描述
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 。。。
   pic: 3
-  position: Lead Developer
+  position: 职位描述
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 单位地址
+  - line: 单位地址
 
 # Build settings
 markdown: kramdown
